@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+BikeSharing1.twb
+DM_Tourism_Campaign.pdf
+DM_Bike_Trails.pdf
+~BikeSharing1__4528.twbr
+
+
 # Distribution / packaging
 .Python
 build/
